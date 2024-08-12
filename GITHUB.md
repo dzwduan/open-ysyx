@@ -3,7 +3,7 @@
 2. 选择你想要创建的 ISSUE 类型![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrdww3qbj21fw0bv3zv.jpg)
 3. 根据模板填写对应的详细信息![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgu4x5xj20r00lamyg.jpg)
 4. 点击 Submit new issue 按钮后就可以看到你提交的 ISSUE 啦✨![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hb700oq4j21gc0efwh9.jpg)
-5. 如果你没有找到对应的 ISSUE 类型可以在 [Discussion](https://github.com/一生一芯china/一生一芯开源项目管理委员会/discussions) 中进行讨论。
+5. 如果你没有找到对应的 ISSUE 类型可以在 [Discussion](TODO /discussions) 中进行讨论。
 
 ## PR
 1. 首先在项目中创建对应的 ISSUE![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hafqc2zzj21gd0cmwg2.jpg)
