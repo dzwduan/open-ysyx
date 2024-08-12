@@ -1,6 +1,6 @@
 # 一生一芯开源项目管理委员会
 
-一生一芯开源项目管理委员会（一生一芯 Open-source Project Management Committee），其成员体系参见[Roles](./ROLES.md)。
+一生一芯开源项目管理委员会，其成员体系参见[Roles](./ROLES.md)。
 
 ## 一生一芯开源社区推出的内容
 
