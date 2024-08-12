@@ -11,13 +11,13 @@ body:
   attributes:
     label: "你是否已经阅读并同意《一生一芯开源项目指南》？"
     options:
-    - label: "我已阅读并同意[《一生一芯开源项目指南》](https://github.com/一生一芯china/一生一芯开源项目管理委员会/blob/main/GUIDE.md)"
+    - label: "我已阅读并同意[《一生一芯开源项目指南》](TODO /GUIDE.md)"
       required: true
 - type: checkboxes
   attributes:
     label: "你是否已经阅读并同意《一生一芯开源项目行为准则》？"
     options:
-    - label: "我已阅读并同意[《一生一芯开源项目行为准则》](https://github.com/一生一芯china/一生一芯开源项目管理委员会/blob/main/CODE_OF_CONDUCT.md)"
+    - label: "我已阅读并同意[《一生一芯开源项目行为准则》](TODO CODE_OF_CONDUCT.md)"
       required: true
 - type: textarea
   id: description
