@@ -1,23 +1,23 @@
 name: 💡 立项
-description: 在Datawhale社区发起一个新的项目
+description: 在一生一芯社区发起一个新的项目
 title: "这里写项目名称"
 labels: "立项申请"
 body:
 - type: markdown
   attributes:
     value: |
-      👏欢迎你来到Datawhale社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
+      👏欢迎你来到一生一芯社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
 - type: checkboxes
   attributes:
-    label: "你是否已经阅读并同意《Datawhale开源项目指南》？"
+    label: "你是否已经阅读并同意《一生一芯开源项目指南》？"
     options:
-    - label: "我已阅读并同意[《Datawhale开源项目指南》](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)"
+    - label: "我已阅读并同意[《一生一芯开源项目指南》](https://github.com/一生一芯china/一生一芯开源项目管理委员会/blob/main/GUIDE.md)"
       required: true
 - type: checkboxes
   attributes:
-    label: "你是否已经阅读并同意《Datawhale开源项目行为准则》？"
+    label: "你是否已经阅读并同意《一生一芯开源项目行为准则》？"
     options:
-    - label: "我已阅读并同意[《Datawhale开源项目行为准则》](https://github.com/datawhalechina/DOPMC/blob/main/CODE_OF_CONDUCT.md)"
+    - label: "我已阅读并同意[《一生一芯开源项目行为准则》](https://github.com/一生一芯china/一生一芯开源项目管理委员会/blob/main/CODE_OF_CONDUCT.md)"
       required: true
 - type: textarea
   id: description
@@ -69,7 +69,7 @@ body:
     required: true
 - type: checkboxes
   attributes:
-    label: "备注：发起立项申请后DOPMC成员将会在7天内给出审核意见，若7天内无反对意见则默认立项通过~"
+    label: "备注：发起立项申请后一生一芯开源项目管理委员会成员将会在7天内给出审核意见，若7天内无反对意见则默认立项通过~"
     options:
     - label: "我已知悉上述备注"
       required: true

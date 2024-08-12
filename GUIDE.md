@@ -1,20 +1,20 @@
-# Datawhale开源项目指南
-本指南由 [Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC）](https://github.com/datawhalechina/DOPMC)制定并发行，其用于指导如何在Datawhale社区从零开始发起开源项目直至项目毕业。
+# 一生一芯开源项目指南
+本指南由 [一生一芯开源项目管理委员会（一生一芯 Open-source Project Management Committee，简称一生一芯开源项目管理委员会）](https://github.com/一生一芯china/一生一芯开源项目管理委员会)制定并发行，其用于指导如何在一生一芯社区从零开始发起开源项目直至项目毕业。
 
 ## 项目周期
 开源项目的完整周期分为以下几个阶段：筹划、立项、内测、公测、毕业。
 
 ## 筹划
-该阶段用于进行组建团队、进度规划、调研分析等准备工作，准确完毕后便可进入到立项阶段，在此阶段项目负责人可联系[保姆团队](./OP.md)辅助其在Datawhale社群招募合作者，项目负责人不可私自在Datawhale社群中发布招募信息。
+该阶段用于进行组建团队、进度规划、调研分析等准备工作，准确完毕后便可进入到立项阶段，在此阶段项目负责人可联系[保姆团队](./OP.md)辅助其在一生一芯社群招募合作者，项目负责人不可私自在一生一芯社群中发布招募信息。
 
 ## 立项
 该阶段用于项目的综合评估，其流程如下：
-1. 项目负责人需阅读熟知并同意[《Datawhale开源项目行为准则》](./CODE_OF_CONDUCT.md)中的所有内容；
-2. 打开[创建Issue](https://github.com/datawhalechina/DOPMC/issues/new/choose)，选择创建“立项”型Issue，根据模板填写立项申请；
-3. [DOPMC](./ROLES.md)公开审核立项申请，并在相应Issue评论审核意见；
-4. [DOPMC](./ROLES.md)审核通过则立项成功，由[保姆团队](./OP.md)将Issue划归至[项目看板](https://github.com/datawhalechina/DOPMC/projects/1)的“立项”区，部分通过则划归至“筹划”区，待项目负责人按照审核意见修缮后再继续审核，直至项目立项成功；
-5. 项目负责人为项目取名（只能包含小写字母和“-”），[保姆团队](./OP.md)在Datawhale账号下为其创建同名Repository，并赋予项目负责人Maintain权限；
-6. 项目负责人按照[repo-template](https://github.com/datawhalechina/repo-template)组织Repository内的文件。
+1. 项目负责人需阅读熟知并同意[《一生一芯开源项目行为准则》](./CODE_OF_CONDUCT.md)中的所有内容；
+2. 打开[创建Issue](https://github.com/一生一芯china/一生一芯开源项目管理委员会/issues/new/choose)，选择创建“立项”型Issue，根据模板填写立项申请；
+3. [一生一芯开源项目管理委员会](./ROLES.md)公开审核立项申请，并在相应Issue评论审核意见；
+4. [一生一芯开源项目管理委员会](./ROLES.md)审核通过则立项成功，由[保姆团队](./OP.md)将Issue划归至[项目看板](https://github.com/一生一芯china/一生一芯开源项目管理委员会/projects/1)的“立项”区，部分通过则划归至“筹划”区，待项目负责人按照审核意见修缮后再继续审核，直至项目立项成功；
+5. 项目负责人为项目取名（只能包含小写字母和“-”），[保姆团队](./OP.md)在一生一芯账号下为其创建同名Repository，并赋予项目负责人Maintain权限；
+6. 项目负责人按照[repo-template](https://github.com/一生一芯china/repo-template)组织Repository内的文件。
 ## 内测
 该阶段用于项目的快速验证，其流程如下：
 1. 项目开始推进后，项目负责人可随时联系[保姆团队](./OP.md)发起内测；
@@ -31,7 +31,7 @@
 
 ## 毕业
 该阶段用于项目的验收，其流程如下：
-1. 项目负责人完成项目所有内容后，联系[DOPMC](./ROLES.md)发起毕业审核；
-2. [DOPMC](./ROLES.md)公开审核毕业申请，并在相应Issue评论审核意见；
-3. [DOPMC](./ROLES.md)全员审核通过则毕业成功，由[保姆团队](./OP.md)将Issue划归至[项目看板](https://github.com/datawhalechina/DOPMC/projects/1)的“毕业”区，部分通过则由项目负责人按照审核意见修缮后再继续审核，直至项目毕业成功；
+1. 项目负责人完成项目所有内容后，联系[一生一芯开源项目管理委员会](./ROLES.md)发起毕业审核；
+2. [一生一芯开源项目管理委员会](./ROLES.md)公开审核毕业申请，并在相应Issue评论审核意见；
+3. [一生一芯开源项目管理委员会](./ROLES.md)全员审核通过则毕业成功，由[保姆团队](./OP.md)将Issue划归至[项目看板](https://github.com/一生一芯china/一生一芯开源项目管理委员会/projects/1)的“毕业”区，部分通过则由项目负责人按照审核意见修缮后再继续审核，直至项目毕业成功；
 4. [保姆团队](./OP.md)联系宣传小组为毕业项目安排宣发。

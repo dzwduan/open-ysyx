@@ -1,5 +1,5 @@
 name: 🥰 反馈问题
-description: 一起改进 Datawhale 社区
+description: 一起改进 一生一芯 社区
 title: ""
 labels: [feedback]
 assignees: 
@@ -8,10 +8,10 @@ body:
 - type: markdown
   attributes:
     value: |
-      感谢参与到 Datawhale 社区中来，请填写以下信息！
+      感谢参与到 一生一芯 社区中来，请填写以下信息！
 - type: checkboxes
   attributes:
-    label: Datawhale 社区中是否已经存在了相似的问题?
+    label: 一生一芯 社区中是否已经存在了相似的问题?
     description: 请在 issue 列表中搜索一下社区是否存在类似问题
     options:
     - label: I have searched the existing issues
