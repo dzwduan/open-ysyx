@@ -5,6 +5,10 @@
 ## 一生一芯开源社区推出的内容
 
 - [一生一芯培养方案](https://ysyx.oscc.cc/)
+- [一生一芯开源IP](https://github.com/oscc-ip)
+- [一生一芯网站建设](https://github.com/oscc-web)
+- [开源EDA](https://github.com/OSCC-Project)
+
 
 ## 参与一生一芯开源社区
 
