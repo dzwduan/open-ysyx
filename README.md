@@ -33,5 +33,7 @@
 
 ## 关注我们
 
-![ysyx公众号](./img/README/yxyx.jpg)
-
+<div align=center>
+<p>扫描下方二维码关注公众号：一生一芯</p>
+<img src="./img/README/yxyx.jpg" alt="ysyx公众号" style="zoom:50%;" />
+</div>
