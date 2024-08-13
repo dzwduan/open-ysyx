@@ -33,7 +33,5 @@
 
 ## 关注我们
 
-<div align=center>
-<p>扫描下方二维码关注公众号：一生一芯</p>
-<img src="TODO" width = "180" height = "180">
-</div>
+![ysyx公众号](./img/README/yxyx.jpg)
+
