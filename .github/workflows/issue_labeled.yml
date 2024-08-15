@@ -16,4 +16,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           body: |
-            你好 @${{ github.event.issue.user.login }}，一生一芯 社区已经收到求助信息 ⚠️，会很快进行反馈。
+            你好 @${{ github.event.issue.user.login }}，“一生一芯”社区已经收到求助信息 ⚠️，会很快进行反馈。
